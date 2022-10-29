@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @imsatyamshandilya
+- 👋 Hi, I’m Satyam Tiwary
 - 👀 I’m interested in Coding, Photograph, Travelling..
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently studies Computer Science and Engineering (CSE)
+          at Kalinga Institution of Industrial Technology, Bhubaneswar...
+- 💞️ 
+- 📫 E-Mail - satyamtiwary289@gmail.com
 
-<!---
-imsatyamshandilya/imsatyamshandilya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#As Everything is Connected.!!
+I am new to my coding Journey and Looking forward to add precise skills
+    needed for my aspiring journey to become a successful " DEVELOPER ".
+    
+Currently I am an intermediate Developer and exploring new technologies in software and web development🧑‍💻.
+
